@@ -1,0 +1,16 @@
+{
+  "name": "playwright-practice",
+  "version": "1.0.0",
+  "description": "Welcome to my Playwright practice repository! This is where I experiment with and develop Playwright tests. Feel free to explore the functions and tests here, and try running any that catch your interest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "playwright": "^1.48.2"
+  }
+}
