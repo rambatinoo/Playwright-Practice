@@ -1,3 +1,6 @@
+// this function tests that the correct error message displays when trying to login to youtube with invalid credentials
+// to run the function first navigate to the Youtube folder & run "node youtubeLogin.js" from the terminal
+
 const { chromium } = require("playwright");
 
 async function youtubeInvalidLogin() {
